@@ -1,0 +1,15 @@
+C:\Users\Maksim\Desktop\sk\sk001\bin\Debug\net7.0\sk001.exe
+C:\Users\Maksim\Desktop\sk\sk001\bin\Debug\net7.0\sk001.deps.json
+C:\Users\Maksim\Desktop\sk\sk001\bin\Debug\net7.0\sk001.runtimeconfig.json
+C:\Users\Maksim\Desktop\sk\sk001\bin\Debug\net7.0\sk001.dll
+C:\Users\Maksim\Desktop\sk\sk001\bin\Debug\net7.0\sk001.pdb
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\sk001.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\sk001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\sk001.AssemblyInfoInputs.cache
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\sk001.AssemblyInfo.cs
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\sk001.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\sk001.dll
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\refint\sk001.dll
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\sk001.pdb
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\sk001.genruntimeconfig.cache
+C:\Users\Maksim\Desktop\sk\sk001\obj\Debug\net7.0\ref\sk001.dll
